@@ -1,0 +1,16 @@
+.allbtn{
+border-radius: 6px;
+background-color: #8e9eab;
+color: #fff;
+margin-left: 40px;
+padding: 0ch 20px;
+transition: all .5s;
+
+}
+
+.allbtn:hover {
+    color:black;
+    
+
+}
+

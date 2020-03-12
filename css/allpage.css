@@ -1,0 +1,14 @@
+h4{
+   color: black; 
+}
+p{
+    color: black !important;
+}
+
+ul li{
+color: black !important;
+}
+
+.list basic_info li a {
+    color: black !important;
+}
