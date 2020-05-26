@@ -1,0 +1,114 @@
+[
+        {
+                "name": "Moosareza Boroumand",
+                "imgUrl": "img/s1.jpg",
+                "article": "Survey on RFID Specifications and Requirements for Using in a License Plate",
+                "date": "2009",
+                "degree": "M.sc",
+                "status": "graduated"
+        },
+        {
+                "name": "Mojgan Khaledi",
+                "imgUrl": "img/s1.jpg",
+                "article": "Mobility Pattern Recognition in Mobile Ad-Hoc Networks",
+                "date": "2009",
+                "degree": "M.sc",
+                "status": "graduated"
+        },
+        {
+                "name": "Mohammad SoroushArzani",
+                "imgUrl": "img/s1.jpg",
+                "article": "Real Time Location Finding of Vehicles in Transport Systems",
+                "date": "2010",
+                "degree": "M.sc",
+                "status": "graduated"
+        },
+        {
+                "name": "Taha Abachi",
+                "imgUrl": "img/s1.jpg",
+                "article": "An Intelligent Spectrum Management Framework in Cognitive Radio Networks",
+                "date": "2010",
+                "degree": "M.sc",
+                "status": "graduated"
+        },
+        {
+                "name": "Yousef Ramezani ",
+                "imgUrl": "img/s1.jpg",
+                "article": "Improvement of Resource Management Algorithms in Cognitive Radio Networks",
+                "date": "2010",
+                "degree": "M.sc",
+                "status": "graduated"
+        },
+        {
+                "name": "Aghil Jokar",
+                "imgUrl": "img/s1.jpg",
+                "article": "Improving Security of AODV Protocol for Detection and Removal of Cooperative Black Hole Attack in MANET",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": "Milad Heydari",
+                "imgUrl": "img/s1.jpg",
+                "article": "Anomaly Based Intrusion Detection in Computer Networks using Generative Adversarial",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": " MohammadReza Hosseini",
+                "imgUrl": "img/s1.jpg",
+                "article": "Neighbor Discovery in Smartphone-Based Opportunistic Networks",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": "Sina Vaziri ",
+                "imgUrl": "img/s1.jpg",
+                "article": "Using an Intelligent Method for Driving Style Recognition",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": "Forouzan Farzinnejad",
+                "imgUrl": "img/s1.jpg",
+                "article": "A Model for Conflict Detection in Smart Homes",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                
+                "name": "Forouzan Farzinnejad",
+                "imgUrl": "img/s1.jpg",
+                "article": "A Model for Conflict Detection in Smart Homes",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                
+                "name": "Hossein Aghahosseini ",
+                "imgUrl": "img/s1.jpg",
+                "article": "Proof-of-Chance: A Blockchain Consensus Mechanism",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": "Arman Sanaei ",
+                "imgUrl": "img/s1.jpg",
+                "article": "Reduction of Energy Consumption for Tracking of Mobile Targets in WSNs",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": "Mohammad Hadinejad",
+                "imgUrl": "img/s1.jpg",
+                "article": "",
+                "degree": "M.sc",
+                "status": "current"
+        },
+        {
+                "name": "Javad Alipanah",
+                "imgUrl": "img/s1.jpg",
+                "article": "",
+                "degree": "M.sc",
+                "status": "current"
+        }
+]

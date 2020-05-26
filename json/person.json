@@ -1,0 +1,88 @@
+[
+    {
+      
+      "name": "Hadi Talebi",
+      "imgUrl": "img/s1.jpg",
+      "article": "Real-time Fusion of Asynchronous Data in Spread Sensor Networks",
+      "date": "2013",
+      "degree": "Ph.D",
+      "status": "graduated"
+    },
+    {
+      
+      "name": "Maryam Tahani",
+      "imgUrl": "img/s1.jpg",
+      "article": "Inferring Diffusion Networks in Dynamic Online Social Networks",
+      "date": "2016",
+      "degree": "Ph.D",
+      "status": "graduated"
+    },
+    {
+      
+      "name": "Amir Ali Ghafourian",
+      "imgUrl": "img/s1.jpg",
+      "article": "Analysis and Performance Enhancement of MAC Layer Protocols for Vehicular Ad Hoc Networks",
+      "date": "2017",
+      "degree": "Ph.D",
+      "status": "graduated"
+    },
+    {
+      
+      "name": "Amin Bazzazi",
+      "imgUrl": "img/s1.jpg",
+      "article": "Hardware Trojan Detection Based on Logical Testing",
+      "date": "2017",
+      "degree": "Ph.D",
+      "status": "graduated"
+    },
+    {
+      
+      "name": "Mohammad Taheri Tehrani ",
+      "imgUrl": "img/s1.jpg",
+      "article": "Intelligent Demand Control in Smart Grids",
+      "date": "2019",
+      "degree": "Ph.D",
+      "status": "graduated"
+    },
+    {
+     
+      "name": "Shiva Shamaei",
+      "imgUrl": "img/s1.jpg",
+      "article": "Device-to-Device Communication Interference Control in Heterogeneous Networks Using Matching Theory",
+      "degree": "Ph.D",
+      "status": "current"
+    },
+    {
+      
+      "name": "Monireh Allahgholi Ghasri",
+      "imgUrl": "img/s1.jpg",
+      "article": "Machine-to-Machine Routing in Heterogeneous Wireless Networks",
+      "degree": "Ph.D",
+      "status": "current"
+    },
+    {
+     
+      "name": "Mohammad Amirkhani",
+      "imgUrl": "img/s1.jpg",
+      "article": "Modeling of Space-Time Data for Place Recommendation",
+      "degree": "Ph.D",
+      "status": "current"
+    },
+    {
+     
+      "name": "Ehsan Khosravi",
+      "imgUrl": "img/s1.jpg",
+      "article": "Driving Behavior Recognition by Multimodal Data",
+      "degree": "Ph.D",
+      "status": "current"
+    },
+    {
+      
+      "name": "Nafiseh Daemi",
+      "imgUrl": "img/s1.jpg",
+      "article": "",
+      "degree": "Ph.D",
+      "status": "current"
+    }
+    
+  ]

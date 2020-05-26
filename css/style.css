@@ -74,6 +74,41 @@ button:focus {
   outline: none;
   box-shadow: none; }
 
+ #person-p{
+   width: 340px;
+   border-style: solid;
+   height:110px;
+   border-radius: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   margin:15px;
+ }
+ #img-p{
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+ }
+ .a-nav{
+   display: block;
+   font-size: medium;
+   color: black;
+  
+ }
+ .d-m{
+  background-image: -moz-linear-gradient(0deg,#8e9eab 0%, #eef2f3 100%);
+  background-image: -webkit-linear-gradient(0deg,#8e9eab 0%,#eef2f3 100%);
+  background-image: -ms-linear-gradient(0deg, #8e9eab 0%, #eef2f3 100%);
+  font: outline;
+  
+ }
+
+
+#H-person {
+
+  margin-left:15px;
+}
+ 
 .p0 {
   padding-left: 0px;
   padding-right: 0px; }
@@ -317,7 +352,7 @@ button:focus {
   .home_banner_area .banner_inner {
     position: relative;
     width: 100%;
-    min-height: 700px;
+    min-height: 800px;
     display: flex; }
     .home_banner_area .banner_inner .banner_content {
       color: #222222;
